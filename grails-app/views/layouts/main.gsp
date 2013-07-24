@@ -1,3 +1,4 @@
+<%@ page import="etsycustomer.Token" %>
 <!DOCTYPE html>
 <!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
 <!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
@@ -18,6 +19,34 @@
 		<r:layoutResources />
 	</head>
 	<body>
+    <div id="banner" role="banner">
+        <img src="${resource(dir: 'images', file: 'etsy.png')}" alt="Etsy Inventory"/>
+        <%
+            Token google = Token.findByServiceName("google")
+            Token etsy = Token.findByServiceName("etsy")
+        %>
+
+        <div class="login-status">
+            <ul>
+                <li>
+                    <g:if test="${google == null}">
+                        <oauth:connect provider="google">Connect to Google</oauth:connect>
+                    </g:if>
+                    <g:else>
+                        Google Connected
+                    </g:else>
+                </li>
+                <li>
+                    <g:if test="${etsy == null}">
+                        <oauth:connect provider="etsy">Connect to Etsy</oauth:connect>
+                    </g:if>
+                    <g:else>
+                        Etsy Connected
+                    </g:else>
+                </li>
+            </ul>
+        </div>
+    </div>
 		<div id="grailsLogo" role="banner"><a href="http://grails.org"><img src="${resource(dir: 'images', file: 'grails_logo.png')}" alt="Grails"/></a></div>
 		<g:layoutBody/>
 		<div class="footer" role="contentinfo"></div>

@@ -3570,3 +3570,231 @@ java.io.FileNotFoundException: C:\Users\pulsiphermd\.grails\2.2.1\projects\etsyc
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
 	at java.lang.Thread.run(Thread.java:722)
+2013-07-25 12:51:02,463 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:15)
+2013-07-25 12:51:02,489 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:15)
+2013-07-25 12:51:02,505 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:15)
+2013-07-25 12:51:02,505 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:15)
+2013-07-25 12:51:02,511 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:15)
+2013-07-25 12:51:02,511 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:15)
+2013-07-25 12:51:02,530 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User wants to send postal mail to customers based on criteria(UseCaseSpec.groovy:19)
+2013-07-25 12:51:02,530 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User wants to send postal mail to customers based on criteria(UseCaseSpec.groovy:19)
+2013-07-25 12:51:02,530 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User wants to send postal mail to customers based on criteria(UseCaseSpec.groovy:19)
+2013-07-25 12:51:02,531 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User wants to send postal mail to customers based on criteria(UseCaseSpec.groovy:19)
+2013-07-25 12:51:02,531 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User wants to send postal mail to customers based on criteria(UseCaseSpec.groovy:19)
+2013-07-25 12:51:02,531 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User wants to send postal mail to customers based on criteria(UseCaseSpec.groovy:19)
+2013-07-25 12:51:02,536 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User wants to see stats on customer location(UseCaseSpec.groovy:23)
+2013-07-25 12:51:02,536 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User wants to see stats on customer location(UseCaseSpec.groovy:23)
+2013-07-25 12:51:02,537 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User wants to see stats on customer location(UseCaseSpec.groovy:23)
+2013-07-25 12:51:02,537 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User wants to see stats on customer location(UseCaseSpec.groovy:23)
+2013-07-25 12:51:02,537 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User wants to see stats on customer location(UseCaseSpec.groovy:23)
+2013-07-25 12:51:02,537 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User wants to see stats on customer location(UseCaseSpec.groovy:23)
+2013-07-25 12:51:02,543 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User would like to rank the customers based on the number of products purchased(UseCaseSpec.groovy:27)
+2013-07-25 12:51:02,543 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User would like to rank the customers based on the number of products purchased(UseCaseSpec.groovy:27)
+2013-07-25 12:51:02,543 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User would like to rank the customers based on the number of products purchased(UseCaseSpec.groovy:27)
+2013-07-25 12:51:02,544 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User would like to rank the customers based on the number of products purchased(UseCaseSpec.groovy:27)
+2013-07-25 12:51:02,544 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User would like to rank the customers based on the number of products purchased(UseCaseSpec.groovy:27)
+2013-07-25 12:51:02,544 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.User would like to rank the customers based on the number of products purchased(UseCaseSpec.groovy:27)
+2013-07-25 12:51:02,549 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.Download customers information email, phone, address to google contacts(UseCaseSpec.groovy:31)
+2013-07-25 12:51:02,549 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.Download customers information email, phone, address to google contacts(UseCaseSpec.groovy:31)
+2013-07-25 12:51:02,550 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.Download customers information email, phone, address to google contacts(UseCaseSpec.groovy:31)
+2013-07-25 12:51:02,550 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.Download customers information email, phone, address to google contacts(UseCaseSpec.groovy:31)
+2013-07-25 12:51:02,550 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.Download customers information email, phone, address to google contacts(UseCaseSpec.groovy:31)
+2013-07-25 12:51:02,550 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+false
+
+	at com.yoly.merced.UseCaseSpec.Download customers information email, phone, address to google contacts(UseCaseSpec.groovy:31)
+2013-07-26 11:03:34,696 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: etsycustomer.com.yoly.merced.CustomerService.customersFromEtsy() is applicable for argument types: () values: []
+Possible solutions: getCustomersFromEtsy()
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:19)
+2013-07-26 11:03:34,738 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: etsycustomer.com.yoly.merced.CustomerService.customersFromEtsy() is applicable for argument types: () values: []
+Possible solutions: getCustomersFromEtsy()
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:19)
+2013-07-26 11:03:34,779 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: etsycustomer.com.yoly.merced.CustomerService.customersFromEtsy() is applicable for argument types: () values: []
+Possible solutions: getCustomersFromEtsy()
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:19)
+2013-07-26 11:03:34,780 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: etsycustomer.com.yoly.merced.CustomerService.customersFromEtsy() is applicable for argument types: () values: []
+Possible solutions: getCustomersFromEtsy()
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:19)
+2013-07-26 11:03:34,789 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: etsycustomer.com.yoly.merced.CustomerService.customersFromEtsy() is applicable for argument types: () values: []
+Possible solutions: getCustomersFromEtsy()
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:19)
+2013-07-26 11:03:34,790 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: etsycustomer.com.yoly.merced.CustomerService.customersFromEtsy() is applicable for argument types: () values: []
+Possible solutions: getCustomersFromEtsy()
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:19)
+2013-07-26 11:09:35,114 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: etsycustomer.com.yoly.merced.CustomerService.customersFromEtsy() is applicable for argument types: () values: []
+Possible solutions: CustomersFromEtsy()
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:19)
+2013-07-26 11:09:35,127 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: etsycustomer.com.yoly.merced.CustomerService.customersFromEtsy() is applicable for argument types: () values: []
+Possible solutions: CustomersFromEtsy()
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:19)
+2013-07-26 11:09:35,162 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: etsycustomer.com.yoly.merced.CustomerService.customersFromEtsy() is applicable for argument types: () values: []
+Possible solutions: CustomersFromEtsy()
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:19)
+2013-07-26 11:09:35,162 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: etsycustomer.com.yoly.merced.CustomerService.customersFromEtsy() is applicable for argument types: () values: []
+Possible solutions: CustomersFromEtsy()
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:19)
+2013-07-26 11:09:35,174 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: etsycustomer.com.yoly.merced.CustomerService.customersFromEtsy() is applicable for argument types: () values: []
+Possible solutions: CustomersFromEtsy()
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:19)
+2013-07-26 11:09:35,174 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingMethodException: No signature of method: etsycustomer.com.yoly.merced.CustomerService.customersFromEtsy() is applicable for argument types: () values: []
+Possible solutions: CustomersFromEtsy()
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:19)

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="18M401StoddardJ" name="com.yoly.merced.UseCaseSpec" tests="5" time="0.257" timestamp="2013-07-26T17:10:08">
+  <properties />
+  <testcase classname="com.yoly.merced.UseCaseSpec" name="User wants to select customers based on criteria and email them" time="0.22" />
+  <testcase classname="com.yoly.merced.UseCaseSpec" name="User wants to send postal mail to customers based on criteria" time="0.005" />
+  <testcase classname="com.yoly.merced.UseCaseSpec" name="User wants to see stats on customer location" time="0.003" />
+  <testcase classname="com.yoly.merced.UseCaseSpec" name="User would like to rank the customers based on the number of products purchased" time="0.003" />
+  <testcase classname="com.yoly.merced.UseCaseSpec" name="Download customers information email, phone, address to google contacts" time="0.004" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[--Output from User wants to select customers based on criteria and email them--
+--Output from User wants to send postal mail to customers based on criteria--
+--Output from User wants to see stats on customer location--
+--Output from User would like to rank the customers based on the number of products purchased--
+--Output from Download customers information email, phone, address to google contacts--
+]]></system-err>
+</testsuite>

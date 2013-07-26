@@ -1,0 +1,5 @@
+--Output from User wants to select customers based on criteria and email them--
+--Output from User wants to send postal mail to customers based on criteria--
+--Output from User wants to see stats on customer location--
+--Output from User would like to rank the customers based on the number of products purchased--
+--Output from Download customers information email, phone, address to google contacts--

@@ -2,160 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e21227a-ad73-412c-b9a3-f34ba772547c" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\ApplicationResources$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\ApplicationResources$_run_closure1_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\ApplicationResources.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\BootStrap$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\BootStrap$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\BootStrap.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\BuildConfig$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\BuildConfig$_run_closure1_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\BuildConfig$_run_closure1_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\BuildConfig$_run_closure1_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\BuildConfig$_run_closure1_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\Config$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\Config$_run_closure1_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\Config$_run_closure1_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\Config$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\Config.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\DataSource$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\DataSource$_run_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\DataSource$_run_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\DataSource$_run_closure3_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\DataSource$_run_closure3_closure4_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\DataSource$_run_closure3_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\DataSource$_run_closure3_closure5_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\DataSource$_run_closure3_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\DataSource$_run_closure3_closure6_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\DataSource$_run_closure3_closure6_closure9_closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\DataSource.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\UrlMappings$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\UrlMappings$__clinit__closure1_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\UrlMappings$__clinit__closure1_closure2_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\UrlMappings.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\application.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Address$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Address.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\AdminController.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BOM$__clinit__closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BOM$_getRawInput_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BOM$_getRaw_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BOM$_getSteps_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BOM.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BOMMaterialStep$__clinit__closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BOMMaterialStep$_process_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BOMMaterialStep$_process_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BOMMaterialStep$_process_closure2_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BOMMaterialStep.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BOMStep$__clinit__closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BOMStep$__clinit__closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BOMStep$_process_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BOMStep$_process_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BOMStep$_toString_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BOMStep$_toString_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BOMStep.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BackgroundProgress$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BackgroundProgress.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\BackgroundState.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Customer$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Customer.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\CustomerController.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\EtsyController$_getProductImages_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\EtsyController.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\EtsySyncService$_getOpenOrdersAsync_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\EtsySyncService$_getOpenOrders_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\EtsySyncService$_getOpenOrders_closure6_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\EtsySyncService$_getOpenOrders_closure6_closure8_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\EtsySyncService$_getProductImagesAsync_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\EtsySyncService$_getProductImages_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\EtsySyncService$_getProductsAsync_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\EtsySyncService$_getProducts_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\EtsySyncService$_getProducts_closure2_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\EtsySyncService.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Image$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Image.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\ImageContainer$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\ImageContainer.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Inventory$__clinit__closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Inventory$__clinit__closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Inventory$__createSpecificRawMaterial_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Inventory$__rawName_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Inventory$_beforeInsert_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Inventory$_beforeUpdate_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Inventory$_canTake_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Inventory$_fulfill_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Inventory$_variations_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Inventory.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryIO$__clinit__closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryIO$__clinit__closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryIO$_afterLoad_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryIO$_beforeInsert_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryIO$_beforeUpdate_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryIO$_variations_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryIO.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryItem$__clinit__closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryItem$__clinit__closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryItem$_afterLoad_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryItem$_beforeInsert_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryItem$_beforeUpdate_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryItem.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryRequest$__clinit__closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryRequest$__clinit__closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryRequest$_afterLoad_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryRequest$_beforeInsert_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryRequest$_beforeUpdate_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryRequest$_variations_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryRequest.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\InventoryRequestState.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Location$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Location.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\ModelCollection$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\ModelCollection.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\OrderState.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\ProductInventory$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\ProductInventory.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\ProductModel$__clinit__closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\ProductModel$_request_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\ProductModel$_toBeBuilt_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\ProductModel$_toBeBuilt_closure2_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\ProductModel.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\ProductRequest$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\ProductRequest.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\SalesOrder$__clinit__closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\SalesOrder$__clinit__closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\SalesOrder$_checkItems_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\SalesOrder.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\ShippedProduct$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\ShippedProduct.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\ShippingItem$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\ShippingItem.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Token$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Token.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Transaction$__clinit__closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\Transaction.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\WorkItem$__clinit__closure10.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\WorkItem$__clinit__closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\WorkItem$_afterLoad_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\WorkItem$_beforeInsert_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\WorkItem$_beforeUpdate_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\WorkItem$_combineMap_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\WorkItem$_finish_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\WorkItem$_finish_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\WorkItem$_process_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\WorkItem$_process_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\WorkItem.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\etsycustomer\WorkItemState.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\resources$_run_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\target\classes\resources.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application.properties" afterPath="$PROJECT_DIR$/application.properties" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\grails-app\services\etsycustomer\EtsySyncService.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\CustomerController\GroovyControllerTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\AddressTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\AdminControllerTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\BOMMaterialStepTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\BOMStepTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\BOMTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\BackgroundProgressTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\CustomerControllerTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\CustomerTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\EtsyControllerTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\EtsySyncServiceTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\EtsycustomerControllerTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ImageContainerTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ImageTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\InventoryIOTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\InventoryItemTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\InventoryRequestTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\InventoryTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\LocationTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ModelCollectionTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ProductInventoryTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ProductModelTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ProductRequestTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\SalesOrderTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ShippedProductTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ShippingItemTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\TokenTests.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\TransactionSpec.groovy" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\WorkItemTests.groovy" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/etsycustomer.iml" afterPath="$PROJECT_DIR$/etsycustomer.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="etsycustomer.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
-    <file path="/Dummy.txt" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374775379250" ignored="false" />
+    <file path="/Dummy.txt" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374857311231" ignored="false" />
     <file path="$PROJECT_DIR$/../etsyinventory/atlassian-ide-plugin.xml" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374709343889" ignored="false" />
     <file path="/Customer.groovy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374523246006" ignored="false" />
     <file path="/EtsycustomerController.groovy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374523663825" ignored="false" />
@@ -183,6 +67,10 @@
     <file path="$PROJECT_DIR$/test/unit/etsycustomer/ModelCollectionTests.groovy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374697986778" ignored="false" />
     <file path="$PROJECT_DIR$/test/unit/etsycustomer/AdminControllerTests.groovy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374705533638" ignored="false" />
     <file path="/main.gsp" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374708468549" ignored="false" />
+    <file path="/UseCaseSpec.groovy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374858128946" ignored="false" />
+    <file path="/a.dummy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374777783480" ignored="false" />
+    <file path="/CustomerService.groovy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374858690901" ignored="false" />
+    <file path="/fragment.java" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374858790951" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,6 +85,24 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/grails-app/controllers/etsycustomer/CustomerController.groovy" line="54" class="etsycustomer.CustomerController" package="etsycustomer">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -233,24 +139,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/grails-app/controllers/etsycustomer/CustomerController.groovy" line="54" class="etsycustomer.CustomerController" package="etsycustomer">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -260,28 +148,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Inventory.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/Inventory.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="197" column="0" selection-start="6360" selection-end="6360" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BOMMaterialStep.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/BOMMaterialStep.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="1" selection-start="1927" selection-end="1927" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ProductModel.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/ProductModel.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
+            <state line="12" column="0" selection-start="317" selection-end="317" vertical-scroll-proportion="-0.73913044">
               <folding />
             </state>
           </provider>
@@ -326,25 +196,34 @@
       <file leaf-file-name="main.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="33" selection-start="1106" selection-end="1106" vertical-scroll-proportion="-10.461538">
+            <state line="16" column="33" selection-start="1106" selection-end="1106" vertical-scroll-proportion="-0.65384614">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BuildConfig.groovy" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BuildConfig.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="9" selection-start="2469" selection-end="2469" vertical-scroll-proportion="0.8241379">
+            <state line="64" column="9" selection-start="2469" selection-end="2469" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProductInventory.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/ProductInventory.groovy">
+      <file leaf-file-name="UseCaseSpec.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/integration/com/yoly/merced/UseCaseSpec.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="32" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
+            <state line="24" column="51" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerService.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/services/com/yoly/merced/CustomerService.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="29" selection-start="301" selection-end="301" vertical-scroll-proportion="0.3949495">
               <folding />
             </state>
           </provider>
@@ -370,9 +249,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/grails-app/domain/etsycustomer/Location.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/etsycustomer/ImageContainer.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/domain/etsycustomer/Image.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/etsycustomer/BOM.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/etsycustomer/BOMStep.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/etsycustomer/InventoryIO.groovy" />
@@ -386,14 +262,17 @@
         <option value="$PROJECT_DIR$/grails-app/views/admin/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
         <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
+        <option value="$PROJECT_DIR$/test/integration/com/yoly/merced/UseCaseSpec.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/services/etsycustomer/com/yoly/merced/CustomerService.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/services/com/yoly/merced/CustomerService.groovy" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-1928" />
+    <option name="y" value="-149" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1176" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -424,7 +303,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -440,6 +318,42 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="etsycustomer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="etsycustomer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="etsycustomer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="etsycustomer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="etsycustomer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="integration" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="merced" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -537,7 +451,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
+              <option name="myItemId" value="merced" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -641,6 +555,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -653,21 +568,37 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="Grails.Grails:etsycustomer">
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <module name="" />
-      <setting name="path" value="" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.yoly.merced" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Grails.test-app">
+    <configuration default="false" name="test-app" type="GrailsRunConfigurationType" factoryName="Grails" temporary="true">
+      <module name="etsycustomer" />
       <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
+      <setting name="cmdLine" value="test-app" />
+      <setting name="depsClasspath" value="true" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
@@ -680,10 +611,13 @@
       <setting name="launchBrowser" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
       <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -692,19 +626,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -733,6 +654,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -783,9 +717,15 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Grails.Grails:etsycustomer" />
+      <item index="1" class="java.lang.String" itemvalue="Grails.test-app" />
     </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Grails.test-app" />
+      </list>
+    </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -818,7 +758,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1928" y="-149" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297244" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -827,18 +767,19 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18011811" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297244" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14514408" sideWeight="0.671875" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14514408" sideWeight="0.8198819" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32677165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297244" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -849,7 +790,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -933,104 +873,64 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/WorkItem.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="176" column="0" selection-start="6021" selection-end="6021" vertical-scroll-proportion="-62.333332">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/BOMStep.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="1" selection-start="1669" selection-end="1669" vertical-scroll-proportion="-19.479166">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/BOM.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="6" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/ShippedProduct.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/ProductRequest.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="11" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/Inventory.groovy">
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/Inventory.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="197" column="0" selection-start="6360" selection-end="6360" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/BOMMaterialStep.groovy">
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/BOMMaterialStep.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="1" selection-start="1927" selection-end="1927" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/ProductInventory.groovy">
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/ProductInventory.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="32" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/ProductModel.groovy">
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/ProductModel.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
+        <state line="12" column="0" selection-start="317" selection-end="317" vertical-scroll-proportion="-0.73913044">
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/ModelCollection.groovy">
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/ModelCollection.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="1" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0">
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/controllers/etsycustomer/EtsyController.groovy">
@@ -1055,25 +955,46 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/Token.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="6" selection-start="29" selection-end="29" vertical-scroll-proportion="0.062043797">
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="33" selection-start="1106" selection-end="1106" vertical-scroll-proportion="-10.461538">
+        <state line="3" column="6" selection-start="29" selection-end="29" vertical-scroll-proportion="0.062043797">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="9" selection-start="2469" selection-end="2469" vertical-scroll-proportion="0.8241379">
+        <state line="64" column="9" selection-start="2469" selection-end="2469" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="33" selection-start="1106" selection-end="1106" vertical-scroll-proportion="-0.65384614">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/integration/com/yoly/merced/UseCaseSpec.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="51" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/stacktrace.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3753" column="60" selection-start="328287" selection-end="328287" vertical-scroll-proportion="0.33333334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/services/com/yoly/merced/CustomerService.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="29" selection-start="301" selection-end="301" vertical-scroll-proportion="0.3949495">
           <folding />
         </state>
       </provider>

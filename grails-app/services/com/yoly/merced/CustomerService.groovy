@@ -13,7 +13,7 @@ class CustomerService {
 
     def customersFromEtsy() {
         def retVal = []
-        return retVal;
+        return retVal ;
     }
 
     def populateGoogleContacts(def customers) {

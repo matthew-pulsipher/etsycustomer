@@ -2,39 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e21227a-ad73-412c-b9a3-f34ba772547c" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\grails-app\services\etsycustomer\EtsySyncService.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\CustomerController\GroovyControllerTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\AddressTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\AdminControllerTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\BOMMaterialStepTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\BOMStepTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\BOMTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\BackgroundProgressTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\CustomerControllerTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\CustomerTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\EtsyControllerTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\EtsySyncServiceTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\EtsycustomerControllerTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ImageContainerTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ImageTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\InventoryIOTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\InventoryItemTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\InventoryRequestTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\InventoryTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\LocationTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ModelCollectionTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ProductInventoryTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ProductModelTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ProductRequestTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\SalesOrderTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ShippedProductTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ShippingItemTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\TokenTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\TransactionSpec.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\WorkItemTests.groovy" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/etsycustomer.iml" afterPath="$PROJECT_DIR$/etsycustomer.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/services/com/yoly/merced/CustomerService.groovy" afterPath="$PROJECT_DIR$/grails-app/services/com/yoly/merced/CustomerService.groovy" />
     </list>
     <ignored path="etsycustomer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -223,7 +191,7 @@
       <file leaf-file-name="CustomerService.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/services/com/yoly/merced/CustomerService.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="29" selection-start="301" selection-end="301" vertical-scroll-proportion="0.3949495">
+            <state line="14" column="8" selection-start="197" selection-end="197" vertical-scroll-proportion="0.24040404">
               <folding />
             </state>
           </provider>
@@ -994,7 +962,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/services/com/yoly/merced/CustomerService.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="29" selection-start="301" selection-end="301" vertical-scroll-proportion="0.3949495">
+        <state line="14" column="8" selection-start="197" selection-end="197" vertical-scroll-proportion="0.24040404">
           <folding />
         </state>
       </provider>

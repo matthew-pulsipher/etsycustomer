@@ -8,7 +8,7 @@ class AdminController {
     def index() {
         Token gtoken = Token.findByServiceName("google")
         Token etoken = Token.findByServiceName("etsy")
-
+        println etoken
 //        if(etoken) {
 //
 //            def resp =  oauthService.getEtsyResource(etoken.token, "http://openapi.etsy.com/v2/shops/DaisyBlossomCreation/transactions?limit=100")

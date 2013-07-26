@@ -25,7 +25,7 @@ class EtsyController {
     }
 
     def getOpenOrders() {
-        etsySyncService.getOpenOrdersAsync()
+        etsySyncService.getOpenOrders()
         redirect(url: "/")
     }
 

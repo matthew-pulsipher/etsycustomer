@@ -2,36 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e21227a-ad73-412c-b9a3-f34ba772547c" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\grails-app\services\etsycustomer\EtsySyncService.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\CustomerController\GroovyControllerTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\AddressTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\AdminControllerTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\BOMMaterialStepTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\BOMStepTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\BOMTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\BackgroundProgressTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\CustomerControllerTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\CustomerTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\EtsyControllerTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\EtsySyncServiceTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\EtsycustomerControllerTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ImageContainerTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ImageTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\InventoryIOTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\InventoryItemTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\InventoryRequestTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\InventoryTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\LocationTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ModelCollectionTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ProductInventoryTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ProductModelTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ProductRequestTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\SalesOrderTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ShippedProductTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\ShippingItemTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\TokenTests.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\TransactionSpec.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\pulsiphermd\IdeaProjects\etsycustomer\test\unit\etsycustomer\WorkItemTests.groovy" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java/com/yoly/merced/EtsyApi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/services/etsycustomer/EtsySyncService.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/etsycustomer/AdminController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/etsycustomer/AdminController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/Config.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/etsycustomer/EtsyController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/etsycustomer/EtsyController.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/etsycustomer-grailsPlugins.iml" afterPath="$PROJECT_DIR$/etsycustomer-grailsPlugins.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/etsycustomer.iml" afterPath="$PROJECT_DIR$/etsycustomer.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -39,8 +15,8 @@
     <ignored path="etsycustomer.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$USER_HOME$/.grails/" />
-    <file path="/Dummy.txt" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374857311231" ignored="false" />
-    <file path="$PROJECT_DIR$/../etsyinventory/atlassian-ide-plugin.xml" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374709343889" ignored="false" />
+    <file path="/Dummy.txt" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374859174728" ignored="false" />
+    <file path="$PROJECT_DIR$/../etsyinventory/atlassian-ide-plugin.xml" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374858907093" ignored="false" />
     <file path="/Customer.groovy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374523246006" ignored="false" />
     <file path="/EtsycustomerController.groovy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374523663825" ignored="false" />
     <file path="/_form.gsp" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374523853533" ignored="false" />
@@ -67,10 +43,18 @@
     <file path="$PROJECT_DIR$/test/unit/etsycustomer/ModelCollectionTests.groovy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374697986778" ignored="false" />
     <file path="$PROJECT_DIR$/test/unit/etsycustomer/AdminControllerTests.groovy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374705533638" ignored="false" />
     <file path="/main.gsp" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374708468549" ignored="false" />
-    <file path="/UseCaseSpec.groovy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374858128946" ignored="false" />
-    <file path="/a.dummy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374777783480" ignored="false" />
-    <file path="/CustomerService.groovy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374858690901" ignored="false" />
-    <file path="/fragment.java" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374858790951" ignored="false" />
+    <file path="$PROJECT_DIR$/../etsycustomer/atlassian-ide-plugin.xml" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374767397265" ignored="false" />
+    <file path="/EtsySyncService.groovy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374773919971" ignored="false" />
+    <file path="/Config.groovy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374809966603" ignored="false" />
+    <file path="/fragment.java" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374775412260" ignored="false" />
+    <file path="/a.dummy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374810323076" ignored="false" />
+    <file path="/AdminController.groovy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374779343927" ignored="false" />
+    <file path="$PROJECT_DIR$/../etsyinventory/test/integration/com/yoly/merced/ProductControllerSpec.groovy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374803270526" ignored="false" />
+    <file path="$PROJECT_DIR$/../etsyinventory/.idea/workspace.xml" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374857825732" ignored="false" />
+    <file path="$PROJECT_DIR$/../etsyinventory/grails-app/conf/BuildConfig.groovy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374810997892" ignored="false" />
+    <file path="/BuildConfig.groovy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374809837953" ignored="false" />
+    <file path="$PROJECT_DIR$/../etsyinventory/grails-app/conf/Config.groovy" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374809976620" ignored="false" />
+    <file path="$PROJECT_DIR$/atlassian-ide-plugin.xml" changelist="9e21227a-ad73-412c-b9a3-f34ba772547c" time="1374859185491" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +69,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint url="file://$PROJECT_DIR$/grails-app/controllers/etsycustomer/CustomerController.groovy" line="54" class="etsycustomer.CustomerController" package="etsycustomer">
         <option name="ENABLED" value="true" />
@@ -102,7 +87,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </line_breakpoints>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -148,15 +132,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ProductModel.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/ProductModel.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="317" selection-end="317" vertical-scroll-proportion="-0.73913044">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ModelCollection.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/ModelCollection.groovy">
           <provider selected="true" editor-type-id="text-editor">
@@ -169,16 +144,25 @@
       <file leaf-file-name="EtsyController.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/etsycustomer/EtsyController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="29" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
+            <state line="31" column="23" selection-start="868" selection-end="868" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdminController.groovy" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.gsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminController.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/controllers/etsycustomer/AdminController.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="6" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
+            <state line="11" column="21" selection-start="308" selection-end="308" vertical-scroll-proportion="0.22341697">
               <folding />
             </state>
           </provider>
@@ -196,34 +180,34 @@
       <file leaf-file-name="main.gsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="33" selection-start="1106" selection-end="1106" vertical-scroll-proportion="-0.65384614">
+            <state line="16" column="33" selection-start="1106" selection-end="1106" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BuildConfig.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+      <file leaf-file-name="Config.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="9" selection-start="2469" selection-end="2469" vertical-scroll-proportion="0.0">
+            <state line="111" column="6" selection-start="4552" selection-end="4552" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UseCaseSpec.groovy" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/integration/com/yoly/merced/UseCaseSpec.groovy">
+      <file leaf-file-name="OauthService.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.grails/2.2.1/projects/etsycustomer/plugins/oauth-2.1.0/grails-app/services/uk/co/desirableobjects/oauth/scribe/OauthService.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="51" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0">
+            <state line="47" column="0" selection-start="1464" selection-end="1464" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerService.groovy" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grails-app/services/com/yoly/merced/CustomerService.groovy">
+      <file leaf-file-name="EtsySyncService.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/services/etsycustomer/EtsySyncService.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="29" selection-start="301" selection-end="301" vertical-scroll-proportion="0.3949495">
+            <state line="35" column="45" selection-start="1376" selection-end="1376" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -258,21 +242,21 @@
         <option value="$PROJECT_DIR$/grails-app/domain/etsycustomer/BOMMaterialStep.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/etsycustomer/ProductInventory.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/etsycustomer/ModelCollection.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/etsycustomer/AdminController.groovy" />
         <option value="$PROJECT_DIR$/grails-app/views/admin/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
-        <option value="$PROJECT_DIR$/test/integration/com/yoly/merced/UseCaseSpec.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/services/etsycustomer/com/yoly/merced/CustomerService.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/services/com/yoly/merced/CustomerService.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/services/etsycustomer/EtsySyncService.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/etsycustomer/EtsyController.groovy" />
+        <option value="$PROJECT_DIR$/src/java/com/yoly/merced/EtsyApi.java" />
+        <option value="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/etsycustomer/AdminController.groovy" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1928" />
-    <option name="y" value="-149" />
-    <option name="width" value="1936" />
-    <option name="height" value="1176" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -290,7 +274,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -301,262 +285,7 @@
       <autoscrollFromSource />
       <sortByType />
     </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="integration" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="merced" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="services" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="merced" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="domain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BackgroundProgress.groovy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="grails-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="etsycustomer-grailsPlugins" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
@@ -568,37 +297,26 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.yoly.merced" />
-      <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Grails.test-app">
-    <configuration default="false" name="test-app" type="GrailsRunConfigurationType" factoryName="Grails" temporary="true">
-      <module name="etsycustomer" />
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="test-app" />
-      <setting name="depsClasspath" value="true" />
-      <setting name="passParentEnv" value="true" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <setting name="launchBrowser" value="false" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+  <component name="RunManager" selected="Grails.Grails:etsycustomer">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
       <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
-      <option name="PROGRAM_PARAMETERS" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
@@ -611,13 +329,10 @@
       <setting name="launchBrowser" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -626,6 +341,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -654,19 +382,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -713,19 +428,19 @@
       <setting name="passParentEnv" value="true" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <setting name="launchBrowser" value="false" />
+      <RunnerSettings RunnerId="GrailsMavenDebuggerRunner">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="GrailsMavenDebuggerRunner" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Grails.Grails:etsycustomer" />
-      <item index="1" class="java.lang.String" itemvalue="Grails.test-app" />
     </list>
-    <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Grails.test-app" />
-      </list>
-    </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -758,38 +473,41 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-149" width="1936" height="1176" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297244" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39954853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18011811" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32731378" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15154749" sideWeight="0.6726862" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297244" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14514408" sideWeight="0.8198819" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32677165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297244" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14514408" sideWeight="0.60045147" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32601535" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3285985" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.670778" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32922202" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -874,77 +592,57 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/ProductRequest.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="11" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0" />
+      </provider>
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="11" selection-start="348" selection-end="348" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/Inventory.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="197" column="0" selection-start="6360" selection-end="6360" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/BOMMaterialStep.groovy">
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/BOMMaterialStep.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="1" selection-start="1927" selection-end="1927" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="46" column="1" selection-start="1927" selection-end="1927" vertical-scroll-proportion="0.0" />
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/ProductInventory.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="32" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0" />
+      </provider>
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="32" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/ProductModel.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="317" selection-end="317" vertical-scroll-proportion="-0.73913044">
+        <state line="12" column="0" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/ModelCollection.groovy">
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/ModelCollection.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="1" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/etsycustomer/EtsyController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="29" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/etsycustomer/AdminController.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="6" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/admin/index.gsp">
@@ -955,46 +653,65 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/etsycustomer/Token.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="6" selection-start="29" selection-end="29" vertical-scroll-proportion="0.062043797">
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="9" selection-start="2469" selection-end="2469" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="33" selection-start="1106" selection-end="1106" vertical-scroll-proportion="-0.65384614">
+        <state line="16" column="33" selection-start="1106" selection-end="1106" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/integration/com/yoly/merced/UseCaseSpec.groovy">
+    <entry file="file://$USER_HOME$/.grails/2.2.1/projects/etsycustomer/plugins/oauth-2.1.0/grails-app/services/uk/co/desirableobjects/oauth/scribe/OauthService.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="51" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0">
+        <state line="47" column="0" selection-start="1464" selection-end="1464" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/stacktrace.log">
+    <entry file="file://$PROJECT_DIR$/src/java/com/yoly/merced/EtsyApi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3753" column="60" selection-start="328287" selection-end="328287" vertical-scroll-proportion="0.33333334">
+        <state line="12" column="13" selection-start="209" selection-end="209" vertical-scroll-proportion="0.16798419" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="6" selection-start="4552" selection-end="4552" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/services/com/yoly/merced/CustomerService.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/etsycustomer/EtsyController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="29" selection-start="301" selection-end="301" vertical-scroll-proportion="0.3949495">
+        <state line="31" column="23" selection-start="868" selection-end="868" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/services/etsycustomer/EtsySyncService.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="45" selection-start="1376" selection-end="1376" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/etsycustomer/AdminController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="21" selection-start="308" selection-end="308" vertical-scroll-proportion="0.22341697">
           <folding />
         </state>
       </provider>
@@ -1007,13 +724,13 @@
           <value>
             <GrailsSettings>
               <option name="buildConfigCrc" value="-905576567" />
-              <option name="pluginDependenciesCrc" value="-887978342" />
+              <option name="pluginDependenciesCrc" value="1191744503" />
               <option name="properties">
                 <map>
-                  <entry key="grails.global.plugins.dir" value="C:\Users\pulsiphermd\.grails\2.2.1\global-plugins" />
-                  <entry key="grails.project.plugins.dir" value="C:\Users\pulsiphermd\.grails\2.2.1\projects\etsycustomer\plugins" />
-                  <entry key="grails.project.work.dir" value="C:\Users\pulsiphermd\.grails\2.2.1\projects\etsycustomer" />
-                  <entry key="grails.work.dir" value="C:\Users\pulsiphermd\.grails\2.2.1" />
+                  <entry key="grails.global.plugins.dir" value="C:\Users\dwpulsip\.grails\2.2.1\global-plugins" />
+                  <entry key="grails.project.plugins.dir" value="C:\Users\dwpulsip\.grails\2.2.1\projects\etsycustomer\plugins" />
+                  <entry key="grails.project.work.dir" value="C:\Users\dwpulsip\.grails\2.2.1\projects\etsycustomer" />
+                  <entry key="grails.work.dir" value="C:\Users\dwpulsip\.grails\2.2.1" />
                 </map>
               </option>
             </GrailsSettings>

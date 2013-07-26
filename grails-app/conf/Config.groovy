@@ -62,10 +62,15 @@ grails.hibernate.cache.queries = false
 environments {
     development {
         grails.logging.jul.usebridge = true
+        grails.serverURL = "http://localhost:8080/etsycustomer"
+    }
+    test {
+        grails.logging.jul.usebridge = true
+        grails.serverURL = "http://localhost:8080/etsycustomer"
     }
     production {
         grails.logging.jul.usebridge = false
-        // TODO: grails.serverURL = "http://www.changeme.com"
+       grails.serverURL = "http://localhost:8080/etsycustomer"
     }
 }
 
@@ -88,4 +93,28 @@ log4j = {
            'org.springframework',
            'org.hibernate',
            'net.sf.ehcache.hibernate'
+}
+
+oauth {
+    providers {
+       /* google {
+            api = org.scribe.builder.api.GoogleApi
+            key = '126175945695.apps.googleusercontent.com'
+            secret = '509njK21AP8E7NOEtXpTomv2'
+            scope = "https://www.googleapis.com/auth/drive"
+            successUri = '/admin/connectGoogle'
+            failureUri = '/admin/connectGoogle'
+            callback = '${grails.serverURL}/oauth/google/callback'
+        }
+        */
+        etsy {
+            api = com.yoly.merced.EtsyApi
+            key = "gcqunwphqwy6htj0sgcg2ge7"
+            secret = "0zx022hluw"
+            successUri = '/admin/connectEtsy'
+            failureUri = '/admin/connectEtsy'
+            callback = '${grails.serverURL}/oauth/etsy/callback'
+        }
+    }
+    debug = false
 }

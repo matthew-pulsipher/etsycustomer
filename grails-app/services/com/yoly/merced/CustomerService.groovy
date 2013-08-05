@@ -15,7 +15,7 @@ class CustomerService {
     }
 
     def customersFromEtsy() {
-        def retVal = []
+        def retVal = [:]
         return retVal ;
     }
 

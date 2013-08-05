@@ -97,7 +97,7 @@ log4j = {
 
 oauth {
     providers {
-       /* google {
+       google {
             api = org.scribe.builder.api.GoogleApi
             key = '126175945695.apps.googleusercontent.com'
             secret = '509njK21AP8E7NOEtXpTomv2'
@@ -106,7 +106,6 @@ oauth {
             failureUri = '/admin/connectGoogle'
             callback = '${grails.serverURL}/oauth/google/callback'
         }
-        */
         etsy {
             api = com.yoly.merced.EtsyApi
             key = "gcqunwphqwy6htj0sgcg2ge7"

@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="0" hostname="18M401StoddardJ" id="0" name="UseCaseSpec" package="com.yoly.merced" tests="5" time="0.257" timestamp="2013-07-26T17:10:08">
+  <testsuite errors="1" failures="0" hostname="DWPULSIP-MOBL" id="0" name="UseCaseSpec" package="com.yoly.merced" tests="5" time="1.027" timestamp="2013-08-02T15:08:16">
       <properties />
 
-      <testcase classname="com.yoly.merced.UseCaseSpec" name="User wants to select customers based on criteria and email them" time="0.22" />
+      <testcase classname="com.yoly.merced.UseCaseSpec" name="User wants to select customers based on criteria and email them" time="0.821">
+          <error message="argument type mismatch" type="java.lang.IllegalArgumentException">java.lang.IllegalArgumentException: argument type mismatch
+	at com.yoly.merced.CustomerService.populateGoogleContacts(CustomerService.groovy:23)
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:25)
+</error>
 
-      <testcase classname="com.yoly.merced.UseCaseSpec" name="User wants to send postal mail to customers based on criteria" time="0.005" />
+      </testcase>
 
-      <testcase classname="com.yoly.merced.UseCaseSpec" name="User wants to see stats on customer location" time="0.003" />
+      <testcase classname="com.yoly.merced.UseCaseSpec" name="User wants to send postal mail to customers based on criteria" time="0.054" />
 
-      <testcase classname="com.yoly.merced.UseCaseSpec" name="User would like to rank the customers based on the number of products purchased" time="0.003" />
+      <testcase classname="com.yoly.merced.UseCaseSpec" name="User wants to see stats on customer location" time="0.02" />
 
-      <testcase classname="com.yoly.merced.UseCaseSpec" name="Download customers information email, phone, address to google contacts" time="0.004" />
+      <testcase classname="com.yoly.merced.UseCaseSpec" name="User would like to rank the customers based on the number of products purchased" time="0.041" />
+
+      <testcase classname="com.yoly.merced.UseCaseSpec" name="Download customers information email, phone, address to google contacts" time="0.028" />
 
       <system-out><![CDATA[]]></system-out>
 

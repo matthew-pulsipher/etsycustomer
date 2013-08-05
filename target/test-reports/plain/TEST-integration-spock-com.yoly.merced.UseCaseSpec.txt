@@ -1,5 +1,5 @@
 Testsuite: com.yoly.merced.UseCaseSpec
-Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0.257 sec
+Tests run: 5, Failures: 0, Errors: 1, Time elapsed: 1.027 sec
 ------------- Standard Error -----------------
 --Output from User wants to select customers based on criteria and email them--
 --Output from User wants to send postal mail to customers based on criteria--
@@ -8,8 +8,14 @@ Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0.257 sec
 --Output from Download customers information email, phone, address to google contacts--
 ------------- ---------------- ---------------
 
-Testcase: User wants to select customers based on criteria and email them took 0.22 sec
-Testcase: User wants to send postal mail to customers based on criteria took 0.005 sec
-Testcase: User wants to see stats on customer location took 0.003 sec
-Testcase: User would like to rank the customers based on the number of products purchased took 0.003 sec
-Testcase: Download customers information email, phone, address to google contacts took 0.004 sec
+Testcase: User wants to select customers based on criteria and email them took 0.761 sec
+	Caused an ERROR
+argument type mismatch
+java.lang.IllegalArgumentException: argument type mismatch
+	at com.yoly.merced.CustomerService.populateGoogleContacts(CustomerService.groovy:23)
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:25)
+
+Testcase: User wants to send postal mail to customers based on criteria took 0.055 sec
+Testcase: User wants to see stats on customer location took 0.02 sec
+Testcase: User would like to rank the customers based on the number of products purchased took 0.041 sec
+Testcase: Download customers information email, phone, address to google contacts took 0.028 sec

@@ -18,7 +18,9 @@
                         5
                         tests
                     
-                        without a single error or failure!
+                        with
+                        one error
+                        .
                     </p>
 </div>
 <div class="grid_2 omega">
@@ -41,6 +43,96 @@
 </nav>
 </div>
 <div class="clear"></div>
+<div class="testsuite error">
+<div class="header">
+<h2>UseCaseSpec</h2>
+<h3>
+                        Executed
+                        5
+                        tests
+                    
+                        with
+                        one error
+                        .
+                    </h3>
+</div>
+<div class="testcase clearfix error grid_8 alpha omega" data-name="User wants to select customers based on criteria and email them">
+<div class="grid_3 alpha">
+<p>
+<span class="icon error"></span><b class="testname message error">User wants to select customers based on criteria and email them</b>
+</p>
+<p class="summary">Executed in 0.821 seconds.</p>
+</div>
+<div class="grid_5 omega outputinfo">
+<div class="details">
+<p>
+<b class="message">argument type mismatch</b>
+</p>
+<pre>java.lang.IllegalArgumentException: argument type mismatch
+	at com.yoly.merced.CustomerService.populateGoogleContacts(CustomerService.groovy:23)
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:25)
+</pre>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="testcase clearfix success grid_8 alpha omega" data-name="User wants to send postal mail to customers based on criteria">
+<div class="grid_3 alpha">
+<p>
+<span class="icon success"></span><b class="testname message success">User wants to send postal mail to customers based on criteria</b>
+</p>
+<p class="summary">Executed in 0.054 seconds.</p>
+</div>
+<div class="grid_5 omega outputinfo"></div>
+<div class="clear"></div>
+</div>
+<div class="testcase clearfix success grid_8 alpha omega" data-name="User wants to see stats on customer location">
+<div class="grid_3 alpha">
+<p>
+<span class="icon success"></span><b class="testname message success">User wants to see stats on customer location</b>
+</p>
+<p class="summary">Executed in 0.02 seconds.</p>
+</div>
+<div class="grid_5 omega outputinfo"></div>
+<div class="clear"></div>
+</div>
+<div class="testcase clearfix success grid_8 alpha omega" data-name="User would like to rank the customers based on the number of products purchased">
+<div class="grid_3 alpha">
+<p>
+<span class="icon success"></span><b class="testname message success">User would like to rank the customers based on the number of products purchased</b>
+</p>
+<p class="summary">Executed in 0.041 seconds.</p>
+</div>
+<div class="grid_5 omega outputinfo"></div>
+<div class="clear"></div>
+</div>
+<div class="testcase clearfix success grid_8 alpha omega" data-name="Download customers information email, phone, address to google contacts">
+<div class="grid_3 alpha">
+<p>
+<span class="icon success"></span><b class="testname message success">Download customers information email, phone, address to google contacts</b>
+</p>
+<p class="summary">Executed in 0.028 seconds.</p>
+</div>
+<div class="grid_5 omega outputinfo"></div>
+<div class="clear"></div>
+</div>
+<div class="clearfix output footer">
+<div class="sysout">
+<h2>Standard output</h2>
+<pre class="stdout"></pre>
+</div>
+<div class="syserr">
+<h2>System error</h2>
+<pre class="syserr">--Output from User wants to select customers based on criteria and email them--
+--Output from User wants to send postal mail to customers based on criteria--
+--Output from User wants to see stats on customer location--
+--Output from User would like to rank the customers based on the number of products purchased--
+--Output from Download customers information email, phone, address to google contacts--
+</pre>
+</div>
+</div>
+<div class="clear"></div>
+</div>
 <div class="clear"></div>
 </div>
 <!--

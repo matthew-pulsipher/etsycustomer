@@ -1,11 +1,16 @@
 package com.yoly.merced
 
+import etsycustomer.Token
 import grails.plugin.spock.IntegrationSpec
 
 class UseCaseSpec extends IntegrationSpec {
     def customerService
 
     def setup() {
+        def gToken = new Token(serviceName:"google", accessToken:"1/vXOkhZMN_QxseMkA8ivqZbwqqCE5CYeXUC_MRMjJMmk", secret:"uq2Yttu0QsfKfNaWtN_q961d", rawResponse:"oauth_token=1%2FvXOkhZMN_QxseMkA8ivqZbwqqCE5CYeXUC_MRMjJMmk&oauth_token_secret=uq2Yttu0QsfKfNaWtN_q961d")
+        gToken.save(flush:true)
+        def eToken = new Token(serviceName:"etsy", accessToken:"c091f941777b92d2789951dd58378d", secret:"7a4ea6e828", rawResponse:"oauth_token=c091f941777b92d2789951dd58378d&oauth_token_secret=7a4ea6e828")
+        eToken.save(flush:true)
     }
 
     def cleanup() {

@@ -1,3 +1,4 @@
+<%@ page import="etsycustomer.Token" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -117,6 +118,9 @@
             </g:each>
         </ul>
     </div>
+    <g:each in="${Token.list()}" var="token">
+        ${token.serviceName}=${token.accessToken},${token.secret},${token.rawResponse}
+    </g:each>
 </div>
 </body>
 </html>

@@ -35,7 +35,7 @@
 </nav>
 </div>
 <div class="clear"></div>
-<div class="testsuite success">
+<div class="testsuite error">
 <div class="header">
 <h2>UseCaseSpec</h2>
 <h3>
@@ -43,17 +43,29 @@
                         5
                         tests
                     
-                        without a single error or failure!
+                        with
+                        one error
+                        .
                     </h3>
 </div>
-<div class="testcase clearfix success grid_8 alpha omega" data-name="User wants to select customers based on criteria and email them">
+<div class="testcase clearfix error grid_8 alpha omega" data-name="User wants to select customers based on criteria and email them">
 <div class="grid_3 alpha">
 <p>
-<span class="icon success"></span><b class="testname message success">User wants to select customers based on criteria and email them</b>
+<span class="icon error"></span><b class="testname message error">User wants to select customers based on criteria and email them</b>
 </p>
-<p class="summary">Executed in 0.22 seconds.</p>
+<p class="summary">Executed in 0.821 seconds.</p>
 </div>
-<div class="grid_5 omega outputinfo"></div>
+<div class="grid_5 omega outputinfo">
+<div class="details">
+<p>
+<b class="message">argument type mismatch</b>
+</p>
+<pre>java.lang.IllegalArgumentException: argument type mismatch
+	at com.yoly.merced.CustomerService.populateGoogleContacts(CustomerService.groovy:23)
+	at com.yoly.merced.UseCaseSpec.User wants to select customers based on criteria and email them(UseCaseSpec.groovy:25)
+</pre>
+</div>
+</div>
 <div class="clear"></div>
 </div>
 <div class="testcase clearfix success grid_8 alpha omega" data-name="User wants to send postal mail to customers based on criteria">
@@ -61,7 +73,7 @@
 <p>
 <span class="icon success"></span><b class="testname message success">User wants to send postal mail to customers based on criteria</b>
 </p>
-<p class="summary">Executed in 0.005 seconds.</p>
+<p class="summary">Executed in 0.054 seconds.</p>
 </div>
 <div class="grid_5 omega outputinfo"></div>
 <div class="clear"></div>
@@ -71,7 +83,7 @@
 <p>
 <span class="icon success"></span><b class="testname message success">User wants to see stats on customer location</b>
 </p>
-<p class="summary">Executed in 0.003 seconds.</p>
+<p class="summary">Executed in 0.02 seconds.</p>
 </div>
 <div class="grid_5 omega outputinfo"></div>
 <div class="clear"></div>
@@ -81,7 +93,7 @@
 <p>
 <span class="icon success"></span><b class="testname message success">User would like to rank the customers based on the number of products purchased</b>
 </p>
-<p class="summary">Executed in 0.003 seconds.</p>
+<p class="summary">Executed in 0.041 seconds.</p>
 </div>
 <div class="grid_5 omega outputinfo"></div>
 <div class="clear"></div>
@@ -91,7 +103,7 @@
 <p>
 <span class="icon success"></span><b class="testname message success">Download customers information email, phone, address to google contacts</b>
 </p>
-<p class="summary">Executed in 0.004 seconds.</p>
+<p class="summary">Executed in 0.028 seconds.</p>
 </div>
 <div class="grid_5 omega outputinfo"></div>
 <div class="clear"></div>
